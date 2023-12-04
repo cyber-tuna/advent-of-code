@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 
 import re
-import string
 import sys
-
-syms = string.punctuation.replace(".","")
 
 total = 0
 lines = [x.strip() for x in sys.stdin]
