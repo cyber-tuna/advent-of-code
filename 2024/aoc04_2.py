@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-import re
 import sys
 
 total = 0
